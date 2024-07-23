@@ -1,4 +1,4 @@
-## Hi IM Jiwon 👋
+## Hi Im Jiwon 👋
 
 <h3>server</h3>
 <div style="white-space: nowrap;">
