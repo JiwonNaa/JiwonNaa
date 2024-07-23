@@ -1,8 +1,9 @@
 ## 🍀 Backend Developer 🍀
 
-<h3>👋 Thank you for visiting my Github place!</h3>
+<div style="text-align: center;">
+<h3>👋 Thank you for visiting my blog place!</h3>
 
- <a href="https://raji1004.tistory.com/">
+<a href="https://raji1004.tistory.com/">
   <img src='https://img.shields.io/badge/tistory-FF6C37?style=for-the-badge&logo=tistory&logoColor=white' alt="블로그로 가기">
 </a>
 
